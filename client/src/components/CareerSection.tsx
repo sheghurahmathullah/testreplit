@@ -41,7 +41,7 @@ export default function CareerSection() {
           </p>
           <p>
             The liquid propulsion and cryogenic technologies he helped develop have powered numerous 
-            successful satellite launches, supported India's remote sensing and communication needs, 
+            successful satellite launches, supported India's remote sensing & communication needs, 
             and positioned the country as a significant player in the global space economy. The technologies 
             he pioneered continue to be refined and used in India's most advanced missions.
           </p>
